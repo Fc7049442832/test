@@ -1,0 +1,49 @@
+*{
+  padding: 0%;
+  margin: 0%;  
+}
+h1{
+    text-align: center;
+    padding: 4px;
+    color: azure;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+}
+
+nav img{
+    width: 60px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+label , input{
+    font-size: 18px;
+    font-weight: 700;
+    font-style: italic;
+}
+select{
+    width: 100%;
+    padding: 3px;
+    font-style: italic;
+}
+label{
+    margin-top: 10px;
+}
+
+a{
+   text-decoration: none;
+    font-size: 16px;
+    font-weight: 500;
+}
+.main{
+    height: 80vh;
+    overflow: scroll;
+
+}
+.footer{
+    padding: 10px;
+    background-color: rgb(49, 49, 49);
+    color: white;
+
+}
